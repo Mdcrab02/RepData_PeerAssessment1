@@ -7,7 +7,6 @@ output: html_document
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
-opts_chunk$set(fig.path = "./figures/", dev='png')
 ```
 
 ##Load the data
